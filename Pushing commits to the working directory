@@ -1,0 +1,8 @@
+1) Check the git status using
+  git status 
+2) Commit the changes done in the project using
+  git commit -m "[commit_message]"
+3) Push the commit to the local repository
+  git push -v
+4) Push the commits to the github (origin master)
+  git push -f origin master
